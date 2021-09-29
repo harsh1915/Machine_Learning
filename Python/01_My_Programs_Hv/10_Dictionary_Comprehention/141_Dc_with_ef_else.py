@@ -1,0 +1,1 @@
+print({i:"Odd" if i%2!= 0 else "Even" for i in range(1, 11)})
