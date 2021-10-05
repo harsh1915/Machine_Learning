@@ -1,0 +1,9 @@
+git config --global user.name “harsh”
+git config --global user.email “hdjethva6@gmail.com”
+git config --list
+git status
+git init
+git add .   --> which will add all these files to the staging area
+git commit -m "Add existing file"
+git log		--> to see the commits we have made	
+git clone https://github.com/tensorflow/tensorflow.git		--> an example we are cloning Tensorflow’s repo
